@@ -1,0 +1,22 @@
+{
+  "name": "hoody2000",
+  "version": "0.1.0-alpha",
+  "description": "bot for r/Hoodyhooo",
+  "main": "index.js",
+  "scripts": {
+    "test": "testbot"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Trobbdor/Hoody2000.git"
+  },
+  "author": "Trobbdor",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Trobbdor/Hoody2000/issues"
+  },
+  "homepage": "https://github.com/Trobbdor/Hoody2000#readme",
+  "dependencies": {
+    "youtube-notifier": "^1.3.1"
+  }
+}
